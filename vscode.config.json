@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "files.simpleDialog.enable": true,
+    "files.trimTrailingWhitespace": true,
+    "fileheader.customMade": {
+        "Author": "qinWenMeng",
+        "Date": "Do not edit",
+        "GitHub": "https://github.com/qinWenMeng",
+        "LastEditors": "qinWenMeng",
+        "LastEditTime": "Do not edit"
+    },
+    "fileheader.configObj": {
+        "autoAdd": false
+    }
+}
