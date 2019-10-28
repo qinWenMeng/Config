@@ -11,5 +11,9 @@
     },
     "fileheader.configObj": {
         "autoAdd": false
-    }
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "powermode.enabled": true,
+    "powermode.enableShake": false,
+    "powermode.presets": "fireworks"
 }
