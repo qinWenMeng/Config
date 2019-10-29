@@ -1,5 +1,7 @@
 {
     "terminal.integrated.shell.osx": "/bin/zsh",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.wordWrap": "on",
     "files.simpleDialog.enable": true,
     "files.trimTrailingWhitespace": true,
     "fileheader.customMade": {
