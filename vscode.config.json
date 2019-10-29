@@ -4,6 +4,10 @@
     "editor.wordWrap": "on",
     "files.simpleDialog.enable": true,
     "files.trimTrailingWhitespace": true,
+    "workbench.iconTheme": "vscode-icons",
+    "powermode.enabled": true,
+    "powermode.enableShake": false,
+    "powermode.presets": "fireworks",
     "fileheader.customMade": {
         "Author": "qinWenMeng",
         "Date": "Do not edit",
@@ -14,8 +18,30 @@
     "fileheader.configObj": {
         "autoAdd": false
     },
-    "workbench.iconTheme": "vscode-icons",
-    "powermode.enabled": true,
-    "powermode.enableShake": false,
-    "powermode.presets": "fireworks"
+    "auto-close-tag.enableAutoCloseTag": true,
+    "auto-close-tag.activationOnLanguage": [
+        "xml",
+        "php",
+        "blade",
+        "ejs",
+        "jinja",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "plaintext",
+        "markdown",
+        "vue",
+        "liquid",
+        "erb",
+        "lang-cfml",
+        "cfml",
+        "HTML (Eex)"
+    ],
+    "auto-rename-tag.activationOnLanguage": [
+        "html",
+        "xml",
+        "php",
+        "javascript"
+    ]
 }
