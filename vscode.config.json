@@ -16,7 +16,8 @@
         "LastEditTime": "Do not edit"
     },
     "fileheader.configObj": {
-        "autoAdd": false
+        "autoAdd": false,
+        "prohibitAutoAdd": [ "json", "md" ]
     },
     "auto-close-tag.enableAutoCloseTag": true,
     "auto-close-tag.activationOnLanguage": [
