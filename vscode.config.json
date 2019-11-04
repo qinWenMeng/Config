@@ -19,6 +19,11 @@
         "LastEditors": "qinWenMeng",
         "LastEditTime": "Do not edit"
     },
+    "fileheader.cursorMode": {
+        "description": "",
+        "param": "",
+        "return": ""
+    },
     "fileheader.configObj": {
         "autoAdd": false,
         "prohibitAutoAdd": [ "json", "md" ]
