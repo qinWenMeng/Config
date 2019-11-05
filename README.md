@@ -29,3 +29,5 @@
 > Auto Close Tag
 
 > Auto Rename Tag
+
+> TypeScript Auto Compiler
