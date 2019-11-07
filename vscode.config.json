@@ -2,6 +2,7 @@
     "terminal.integrated.shell.osx": "/bin/zsh",
     "javascript.updateImportsOnFileMove.enabled": "always",
     "editor.wordWrap": "on",
+    "editor.tabSize": 2,
     "files.simpleDialog.enable": true,
     "files.trimTrailingWhitespace": true,
     "workbench.iconTheme": "vscode-icons",
