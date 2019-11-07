@@ -3,6 +3,9 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "editor.wordWrap": "on",
     "editor.tabSize": 2,
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.tabCloseButton": "left",
     "files.simpleDialog.enable": true,
     "files.trimTrailingWhitespace": true,
     "workbench.iconTheme": "vscode-icons",
@@ -15,6 +18,11 @@
         "GitHub": "https://github.com/qinWenMeng",
         "LastEditors": "qinWenMeng",
         "LastEditTime": "Do not edit"
+    },
+    "fileheader.cursorMode": {
+        "description": "",
+        "param": "",
+        "return": ""
     },
     "fileheader.configObj": {
         "autoAdd": false,
