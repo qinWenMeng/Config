@@ -31,3 +31,7 @@
 > Auto Rename Tag
 
 > TypeScript Auto Compiler
+
+> css Tree
+
+> Live Server
