@@ -32,6 +32,8 @@
 
 > TypeScript Auto Compiler
 
-> css Tree
+> CSS Tree
 
 > Live Server
+
+> Bracket Pair Colorizer
