@@ -1,57 +1,55 @@
 {
-    "terminal.integrated.shell.osx": "/bin/zsh",
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "editor.wordWrap": "on",
-    "editor.tabSize": 2,
-    "workbench.editor.closeOnFileDelete": true,
-    "workbench.editor.highlightModifiedTabs": true,
-    "workbench.editor.tabCloseButton": "left",
-    "files.simpleDialog.enable": true,
-    "files.trimTrailingWhitespace": true,
-    "workbench.iconTheme": "vscode-icons",
-    "powermode.enabled": true,
-    "powermode.enableShake": false,
-    "powermode.presets": "fireworks",
-    "fileheader.customMade": {
-        "Author": "qinWenMeng",
-        "Date": "Do not edit",
-        "GitHub": "https://github.com/qinWenMeng",
-        "LastEditors": "qinWenMeng",
-        "LastEditTime": "Do not edit"
-    },
-    "fileheader.cursorMode": {
-        "description": "",
-        "param": "",
-        "return": ""
-    },
-    "fileheader.configObj": {
-        "autoAdd": false,
-        "prohibitAutoAdd": [ "json", "md" ]
-    },
-    "auto-close-tag.enableAutoCloseTag": true,
-    "auto-close-tag.activationOnLanguage": [
-        "xml",
-        "php",
-        "blade",
-        "ejs",
-        "jinja",
-        "javascript",
-        "javascriptreact",
-        "typescript",
-        "typescriptreact",
-        "plaintext",
-        "markdown",
-        "vue",
-        "liquid",
-        "erb",
-        "lang-cfml",
-        "cfml",
-        "HTML (Eex)"
-    ],
-    "auto-rename-tag.activationOnLanguage": [
-        "html",
-        "xml",
-        "php",
-        "javascript"
-    ]
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 120,
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.tabCloseButton": "left",
+  "files.simpleDialog.enable": true,
+  "files.trimTrailingWhitespace": true,
+  "workbench.iconTheme": "vscode-icons",
+  "powermode.enabled": true,
+  "powermode.enableShake": false,
+  "powermode.presets": "fireworks",
+  "fileheader.customMade": {
+    "Author": "qinWenMeng",
+    "Date": "Do not edit",
+    "GitHub": "https://github.com/qinWenMeng",
+    "LastEditors": "qinWenMeng",
+    "LastEditTime": "Do not edit"
+  },
+  "fileheader.cursorMode": {
+    "description": "",
+    "param": "",
+    "return": ""
+  },
+  "fileheader.configObj": {
+    "autoAdd": false,
+    "prohibitAutoAdd": ["json", "md"]
+  },
+  "auto-close-tag.enableAutoCloseTag": true,
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (Eex)"
+  ],
+  "auto-rename-tag.activationOnLanguage": ["html", "xml", "php", "javascript"]
 }
