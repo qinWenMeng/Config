@@ -9,7 +9,7 @@
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.tabCloseButton": "left",
-  "files.eol": "\n",
+  "files.eol": "auto",
   "files.simpleDialog.enable": true,
   "files.trimTrailingWhitespace": true,
   "workbench.iconTheme": "vscode-icons",
