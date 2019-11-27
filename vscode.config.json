@@ -16,6 +16,11 @@
   "powermode.enabled": true,
   "powermode.enableShake": false,
   "powermode.presets": "fireworks",
+  "fileheader.configObj": {
+    "autoAlready": false,
+    "autoAdd": false,
+    "prohibitAutoAdd": ["json", "md"]
+  },
   "fileheader.customMade": {
     "Author": "qinWenMeng",
     "Date": "Do not edit",
@@ -27,10 +32,6 @@
     "description": "",
     "param": "",
     "return": ""
-  },
-  "fileheader.configObj": {
-    "autoAdd": false,
-    "prohibitAutoAdd": ["json", "md"]
   },
   "auto-close-tag.enableAutoCloseTag": true,
   "auto-close-tag.activationOnLanguage": [
