@@ -34,6 +34,8 @@
 
 > Prettier
 
+> stylelint
+
 > TSLint
 
 > TypeScript Auto Compiler
