@@ -53,5 +53,7 @@
     "cfml",
     "HTML (Eex)"
   ],
-  "auto-rename-tag.activationOnLanguage": ["html", "xml", "php", "javascript"]
+  "auto-rename-tag.activationOnLanguage": ["html", "xml", "php", "javascript"],
+  "csscomb.formatOnSave": false,
+  "csscomb.preset": "zen"
 }
