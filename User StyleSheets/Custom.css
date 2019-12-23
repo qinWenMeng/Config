@@ -1,0 +1,30 @@
+/*—滚动条大小–*/
+::-webkit-scrollbar {
+  width: 8px; /* 对应垂直滚动条 */
+  height: 8px; /* 对应水平滚动条 */
+}
+
+/*—滚动条默认显示样式–*/
+::-webkit-scrollbar-thumb {
+  background-color: rgba(50, 50, 50, 0.3);
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  border: 1px solid #fff;
+}
+
+/*—滚动框背景样式–*/
+::-webkit-scrollbar-track {
+  background-color: rgba(50, 50, 50, 0.1);
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
+
+/*—鼠标悬浮滚动条显示样式–*/
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(50, 50, 50, 0.5);
+}
+
+/*—鼠标点击滚动条显示样式–*/
+::-webkit-scrollbar-thumb:active {
+  background-color: rgba(50, 50, 50, 0.6);
+}
