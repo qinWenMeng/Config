@@ -16,6 +16,8 @@
 
 > CSScomb
 
+> CSS Peek
+
 > ES7 React/Redux/GraphQL/React-Native snippets
 
 > ESLint
