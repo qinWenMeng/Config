@@ -19,7 +19,8 @@
   "fileheader.configObj": {
     "autoAlready": false,
     "autoAdd": false,
-    "prohibitAutoAdd": ["json", "md"]
+    "prohibitAutoAdd": ["json", "md"],
+    "showErrorMessage": false
   },
   "fileheader.customMade": {
     "Author": "qinWenMeng",
