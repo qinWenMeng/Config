@@ -55,5 +55,8 @@
   ],
   "auto-rename-tag.activationOnLanguage": ["html", "xml", "php", "javascript"],
   "csscomb.formatOnSave": false,
-  "csscomb.preset": "zen"
+  "csscomb.preset": "zen",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.fullReload": true,
+  "liveServer.settings.donotShowInfoMsg": true
 }
