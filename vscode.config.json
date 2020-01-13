@@ -58,6 +58,14 @@
   "csscomb.formatOnSave": false,
   "csscomb.preset": "zen",
   "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.host": "localhost",
+  "liveServer.settings.port": 5500,
   "liveServer.settings.fullReload": true,
-  "liveServer.settings.donotShowInfoMsg": true
+  "liveServer.settings.donotShowInfoMsg": true,
+  "open-in-browser.default": "Google Chrome",
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.trailingComma": "all",
+  "prettier.arrowParens": "always"
 }
