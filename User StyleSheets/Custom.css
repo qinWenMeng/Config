@@ -1,3 +1,8 @@
+/* 鼠标样式 */
+html {
+  cursor: url(https://files.cnblogs.com/files/jserhub/favicon.ico), auto;
+}
+
 /*—滚动条大小–*/
 ::-webkit-scrollbar {
   width: 8px; /* 对应垂直滚动条 */
@@ -27,4 +32,20 @@
 /*—鼠标点击滚动条显示样式–*/
 ::-webkit-scrollbar-thumb:active {
   background-color: rgba(50, 50, 50, 0.6);
+}
+
+/* 选中文本的颜色和背景色 */
+::selection {
+  color: #fff;
+  background-color: orange;
+}
+
+::-moz-selection {
+  color: #fff;
+  background-color: orange;
+}
+
+::-webkit-selection {
+  color: #fff;
+  background-color: orange;
 }
