@@ -30,6 +30,10 @@
 
 > Live Server
 
+> npm
+
+> npm Intellisense
+
 > open in browser
 
 > Power Mode
