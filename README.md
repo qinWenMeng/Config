@@ -22,6 +22,10 @@
 
 > ESLint
 
+> GitLens
+
+> Git History
+
 > koroFileHeader
 
 ```
