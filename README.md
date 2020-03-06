@@ -6,6 +6,8 @@
 
 > Auto Rename Tag
 
+> Azure
+
 > Bookmarks
 
 > Bracket Pair Colorizer
