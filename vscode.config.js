@@ -71,5 +71,6 @@ export default {
   // 'prettier.trailingComma': 'all',
   'prettier.arrowParens': 'always',
   'prettier.useEditorConfig': true,
-  'explorer.compactFolders': false
+  'explorer.compactFolders': false,
+  'diffEditor.ignoreTrimWhitespace': false
 };
