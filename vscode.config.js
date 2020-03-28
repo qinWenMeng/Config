@@ -24,10 +24,10 @@ export default {
     showErrorMessage: false
   },
   'fileheader.customMade': {
-    Author: 'qinWenMeng',
+    Author: 'Tser',
     Date: 'Do not edit',
-    GitHub: 'https://github.com/qinWenMeng',
-    LastEditors: 'qinWenMeng',
+    GitHub: 'https://github.com/TserHub',
+    LastEditors: 'Tser',
     LastEditTime: 'Do not edit'
   },
   'fileheader.cursorMode': {
