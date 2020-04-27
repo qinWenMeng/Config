@@ -57,3 +57,7 @@
 > vscode-icons
 
 > vscode-pdf
+
+> Settings Sync
+
+> Project Manager
