@@ -20,6 +20,10 @@
 
 > CSS Peek
 
+> Docker
+
+> EditorConfig for VS Code
+
 > ES7 React/Redux/GraphQL/React-Native snippets
 
 > ESLint
@@ -36,6 +40,8 @@
 
 > Live Server
 
+> Lodash Snippets
+
 > npm
 
 > npm Intellisense
@@ -46,7 +52,11 @@
 
 > Prettier
 
+> Remote - SSH
+
 > stylelint
+
+> SVG
 
 > TSLint
 
@@ -61,3 +71,5 @@
 > Settings Sync
 
 > Project Manager
+
+> 
