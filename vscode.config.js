@@ -13,6 +13,9 @@ export default {
   'files.eol': '\n',
   'files.simpleDialog.enable': true,
   'files.trimTrailingWhitespace': true,
+  'files.exclude': {
+    '**/node_modules': true
+  },
   'workbench.iconTheme': 'vscode-icons',
   'powermode.enabled': true,
   'powermode.enableShake': false,
