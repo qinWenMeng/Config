@@ -39,21 +39,39 @@
 ```
 
 > Live Server
+
 > Lodash Snippets
+
 > npm
+
 > npm Intellisense
+
 > open in browser
+
 > Power Mode
+
 > Prettier
+
 > Remote - SSH
+
 > stylelint
+
 > SVG
+
 > TSLint
+
 > TypeScript Auto Compiler
+
 > Vetur
+
 > vscode-icons
+
 > vscode-pdf
+
 > Settings Sync
+
 > Project Manager
+
 > SynthWave '84
+
 > Custom CSS and JS Loader
