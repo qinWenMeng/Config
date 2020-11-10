@@ -75,5 +75,9 @@ export default {
   'prettier.arrowParens': 'always',
   'prettier.useEditorConfig': true,
   'explorer.compactFolders': false,
-  'diffEditor.ignoreTrimWhitespace': false
+  'diffEditor.ignoreTrimWhitespace': false,
+  "workbench.colorTheme": "SynthWave '84",
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/jm012766/.vscode/extensions/robbowen.synthwave-vscode-0.1.8/synthwave84.css"
+  ]
 };
