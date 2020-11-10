@@ -55,3 +55,5 @@
 > vscode-pdf
 > Settings Sync
 > Project Manager
+> SynthWave '84
+> Custom CSS and JS Loader
