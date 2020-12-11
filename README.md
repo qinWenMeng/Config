@@ -12,6 +12,8 @@
 
 > Bracket Pair Colorizer
 
+> Code Runner
+
 > Color Highlight
 
 > CSS Tree
@@ -51,6 +53,8 @@
 > Power Mode
 
 > Prettier
+
+> Quokka.js
 
 > Remote - SSH
 
