@@ -12,6 +12,8 @@
 
 > Bracket Pair Colorizer
 
+> Code Runner
+
 > Color Highlight
 
 > CSS Tree
@@ -39,19 +41,41 @@
 ```
 
 > Live Server
+
 > Lodash Snippets
+
 > npm
+
 > npm Intellisense
+
 > open in browser
+
 > Power Mode
+
 > Prettier
+
+> Quokka.js
+
 > Remote - SSH
+
 > stylelint
+
 > SVG
+
 > TSLint
+
 > TypeScript Auto Compiler
+
 > Vetur
+
 > vscode-icons
+
 > vscode-pdf
+
 > Settings Sync
+
 > Project Manager
+
+> SynthWave '84
+
+> Custom CSS and JS Loader
