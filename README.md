@@ -1,81 +1,89 @@
-# Config
+# vscode 插件
 
-> # vscode 插件
+- Auto Close Tag
 
-> Auto Close Tag
+- Auto Rename Tag
 
-> Auto Rename Tag
+- Azure
 
-> Azure
+- Bookmarks
 
-> Bookmarks
+- Bracket Pair Colorizer
 
-> Bracket Pair Colorizer
+- Code Runner
 
-> Code Runner
+- CodeSnap
 
-> Color Highlight
+  ```text
+  选中代码生成图片！
+  ```
 
-> CSS Tree
+- Color Highlight
 
-> CSScomb
+- CSS Tree
 
-> CSS Peek
+- CSScomb
 
-> Docker
+- CSS Peek
 
-> EditorConfig for VS Code
+- Docker
 
-> ES7 React/Redux/GraphQL/React-Native snippets
+- EditorConfig for VS Code
 
-> ESLint
+- ES7 React/Redux/GraphQL/React-Native snippets
 
-> GitLens
+- ESLint
 
-> Git History
+- GitLens
 
-> koroFileHeader
+- Git History
 
-```
-在vscode中用于生成文件头部注释和函数注释的插件，经过多版迭代后，插件：支持所有主流语言,功能强大，灵活方便，文档齐全，使用简单！
-```
+- koroFileHeader
 
-> Live Server
+  ```text
+  在vscode中用于生成文件头部注释和函数注释的插件！
+  ```
 
-> Lodash Snippets
+- Live Server
 
-> npm
+- Lodash Snippets
 
-> npm Intellisense
+- npm
 
-> open in browser
+- npm Intellisense
 
-> Power Mode
+- open in browser
 
-> Prettier
+- Power Mode
 
-> Quokka.js
+- Prettier
 
-> Remote - SSH
+- Quokka.js
 
-> stylelint
+  ```text
+  执行代码，实时展示执行结果
+  ```
 
-> SVG
+- Remote - SSH
 
-> TSLint
+- stylelint
 
-> TypeScript Auto Compiler
+- SVG
 
-> Vetur
+- TSLint
 
-> vscode-icons
+- TypeScript Auto Compiler
 
-> vscode-pdf
+- Vetur
 
-> Settings Sync
+- vscode-icons
 
-> Project Manager
+- vscode-pdf
 
-> SynthWave '84
+- Settings Sync
 
-> Custom CSS and JS Loader
+- Project Manager
+
+- SynthWave '84
+
+- Custom CSS and JS Loader
